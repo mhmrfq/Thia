@@ -101,4 +101,7 @@ body {
   .card .detail .content p {
     font-size: 10px;
   }
+  .card .imgBox img:nth-child(3) {
+    transform: rotateY(0deg);
+  }
 }
