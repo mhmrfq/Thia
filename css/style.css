@@ -88,7 +88,7 @@ body {
 /*untuk layar device berukuran kecil*/
 @media screen and (max-width: 460px) {
   .card {
-    margin: 50% 25%;
+    margin: 25% 25%;
     width: 190px;
     height: 250px;
   }
