@@ -88,18 +88,17 @@ body {
 /*untuk layar device berukuran kecil*/
 @media screen and (max-width: 460px) {
   .card {
-    margin: 50% 25%;
     width: 190px;
     height: 250px;
   }
   .card .detail .content li {
     margin: 0 20px;
-    font-size: small;
+    font-size: 10px;
   }
   .card .detail .content h2 {
-    font-size: medium;
+    font-size: 13px;
   }
   .card .detail .content p {
-    font-size: small;
+    font-size: 10px;
   }
 }
